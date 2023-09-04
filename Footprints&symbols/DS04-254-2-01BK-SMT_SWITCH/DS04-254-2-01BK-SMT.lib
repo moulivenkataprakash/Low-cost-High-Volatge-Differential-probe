@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DS04-254-2-01BK-SMT
+#/11852266/1072427/2.49/2/4/Switch
+DEF DS04-254-2-01BK-SMT S 0 30 Y Y 1 F N
+F0 "S" 750 300 50 H V L CNN
+F1 "DS04-254-2-01BK-SMT" 750 200 50 H V L CNN
+F2 "DS04254201BKSMT" 750 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c6ff744c627a82ac82db8ce1595a468c.pdf" 750 0 50 H I L CNN
+F4 "DIP Switches / SIP Switches DIP Switch, SPST, 2.54 pitch, flat actuator, SMT, 1 position, Black" 750 -100 50 H I L CNN "Description"
+F5 "4.85" 750 -200 50 H I L CNN "Height"
+F6 "CUI Devices" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DS04-254-2-01BK-SMT" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "490-DS04254201BK-SMT" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/DS04-254-2-01BK-SMT?qs=wnTfsH77Xs7VDGZ8jaePmA%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "DS04-254-2-01BK-SMT" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ds04-254-2-01bk-smt/cui-devices?region=nac" 750 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 750 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 750 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X COM 1 0 -100 200 R 50 50 0 0 P
+X NO 2 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

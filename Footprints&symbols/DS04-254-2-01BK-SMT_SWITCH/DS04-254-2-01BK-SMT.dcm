@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS04-254-2-01BK-SMT
+D DIP Switches / SIP Switches DIP Switch, SPST, 2.54 pitch, flat actuator, SMT, 1 position, Black
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c6ff744c627a82ac82db8ce1595a468c.pdf
+$ENDCMP
+#
+#End Doc Library

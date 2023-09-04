@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "dc-dc_5v")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/dc-dc_5v/dc-dc_5v.kicad_sym")(options "")(descr ""))
+  (lib (name "dc_dc_15v")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/dc-dc_15v/dc_dc_15v.kicad_sym")(options "")(descr ""))
+  (lib (name "LF353M")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/LF353/LF353M.kicad_sym")(options "")(descr ""))
+  (lib (name "PTV09A-4225F-B104")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/trim/PTV09A-4225F-B104.kicad_sym")(options "")(descr ""))
+  (lib (name "LDO")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/LDO/LDO.kicad_sym")(options "")(descr ""))
+  (lib (name "227161-1")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/coaxial/227161-1.kicad_sym")(options "")(descr ""))
+  (lib (name "B0505LS-1WR3")(type "KiCad")(uri "${HVPROBE}/5v-5v/B0505LS-1WR3.kicad_sym")(options "")(descr ""))
+)

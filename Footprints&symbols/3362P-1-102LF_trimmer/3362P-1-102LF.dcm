@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3362P-1-102LF
+D Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 1k +/-10% 0.5W +/-100ppm/C Top Adjust
+K
+F https://www.bourns.com/docs/Product-Datasheets/3362.pdf
+$ENDCMP
+#
+#End Doc Library

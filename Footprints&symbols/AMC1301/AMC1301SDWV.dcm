@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMC1301SDWV
+D +/-250 mV-Input Precision Reinforced Isolated Amplifier for Current Sensing
+K
+F http://www.ti.com/lit/gpn/AMC1301
+$ENDCMP
+#
+#End Doc Library

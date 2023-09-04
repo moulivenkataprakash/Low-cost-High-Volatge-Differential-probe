@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LF356MX_NOPB
+D JFET Input Operational Amplifiers
+K
+F http://www.ti.com/lit/gpn/lf356
+$ENDCMP
+#
+#End Doc Library
