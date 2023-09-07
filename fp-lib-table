@@ -7,7 +7,6 @@
   (lib (name "coaxial")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/coaxial")(options "")(descr ""))
   (lib (name "dc-dc_15v")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/dc-dc_15v")(options "")(descr ""))
   (lib (name "DS04-254-2-01BK-SMT_SWITCH")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/DS04-254-2-01BK-SMT_SWITCH")(options "")(descr ""))
-  (lib (name "inductor")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/inductor")(options "")(descr ""))
   (lib (name "volatgeprobe")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/volatgeprobe")(options "")(descr ""))
   (lib (name "dc-dc_5v")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/dc-dc_5v")(options "")(descr ""))
   (lib (name "trim")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/trim")(options "")(descr ""))
@@ -17,4 +16,5 @@
   (lib (name "battery")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/battery")(options "")(descr ""))
   (lib (name "22uf")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/22uf")(options "")(descr ""))
   (lib (name "5v-5v")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/5v-5v")(options "")(descr ""))
+  (lib (name "inductor")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/inductor")(options "")(descr ""))
 )
