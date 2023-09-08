@@ -17,4 +17,5 @@
   (lib (name "22uf")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/22uf")(options "")(descr ""))
   (lib (name "5v-5v")(type "KiCad")(uri "C:/Users/mouli/OneDrive/Documents/KiCad/6.0/projects/High_bandwidth_voltage_probe/Footprints&symbols/5v-5v")(options "")(descr ""))
   (lib (name "inductor")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/inductor")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/logo")(options "")(descr ""))
 )
