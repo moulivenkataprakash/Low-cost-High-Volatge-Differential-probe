@@ -3700,6 +3700,11 @@
       (solder_mask_margin 0.1016) (tstamp 168f6251-29ec-4bb9-8d8f-294889b2f25f))
     (pad "3" thru_hole circle (at 36.3 9.65) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask")
       (solder_mask_margin 0.1016) (tstamp 399ae132-7a59-4739-ab24-6a77157bd72f))
+    (model "${KIPRJMOD}/Footprints&symbols/battery/BATTERY_holder.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (gr_arc (start 101.93625 129.1) (mid 98.400716 127.635534) (end 96.93625 124.1)
@@ -3725,9 +3730,6 @@
   )
   (gr_text "HV PROBE" (at 172.04625 122.02) (layer "F.SilkS") (tstamp 9762741c-0444-4347-b4f2-8466a08d7a21)
     (effects (font (size 1 1.5) (thickness 0.25) bold) (justify left bottom))
-  )
-  (gr_text "check banana jack size" (at 154.94625 70.07) (layer "Cmts.User") (tstamp 2bb8c91f-2476-4a38-9085-6be953b2ee41)
-    (effects (font (size 2 2) (thickness 0.25) bold) (justify left bottom))
   )
 
   (segment (start 120.01625 89.4294) (end 127.04565 89.4294) (width 0.25) (layer "F.Cu") (net 1) (tstamp 29b131a8-15d8-4203-9875-289e0aef0347))
